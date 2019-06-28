@@ -35,10 +35,10 @@ git clone https://github.com/PaaRRRR/ShoppingMall_Renewal.git
 npm install
 ```
 
-3. Start the server
+3. Run the emulator and Start the server
 
 ```
-react-native run-android or react-native run-ios
+react-native run-android
 ```
 
 4. Explore
@@ -50,8 +50,9 @@ Enjoy :)
 
 ## Built With
 
-* [food2fork](https://www.food2fork.com/) - API for recipe data
-* [Axios](https://github.com/axios/axios/) - Promise based HTTP client for the browser and node.js
+
+* [React-Native](https://github.com/facebook/react-native) - Framework for develop
+* [Redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 * [CSS] - For styling
 * [JavaScript] - For client side logic
 
