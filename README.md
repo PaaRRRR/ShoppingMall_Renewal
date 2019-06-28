@@ -26,7 +26,7 @@ This project is required to be installed React-Native - see the React-Native(htt
 1. Clone the repo
 
 ```
-git clone https://github.com/PaaRRRR/forkify.git
+git clone https://github.com/PaaRRRR/ShoppingMall_Renewal.git
 ```
 
 2. Run npm install inside project root
@@ -38,7 +38,7 @@ npm install
 3. Start the server
 
 ```
-npm run start
+react-native run-android or react-native run-ios
 ```
 
 4. Explore
