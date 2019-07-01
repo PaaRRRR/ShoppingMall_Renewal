@@ -1,6 +1,6 @@
 # ShoppingMall_Renewal
 
-This is a web application 
+This is a personal web application renewing the 'zigzag' shopping mall app. 
 
 # Getting Started
 
