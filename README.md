@@ -35,13 +35,16 @@ git clone https://github.com/PaaRRRR/ShoppingMall_Renewal.git
 npm install
 ```
 
-3. Run the emulator and Start the server
+3. Create your own projects and Paste the zigzag code
+
+
+4. Run the emulator and Start the server
 
 ```
 react-native run-android
 ```
 
-4. Explore
+5. Explore
 
 ```
 Enjoy :)
