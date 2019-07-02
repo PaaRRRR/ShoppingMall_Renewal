@@ -35,7 +35,7 @@ git clone https://github.com/PaaRRRR/ShoppingMall_Renewal.git
 npm install
 ```
 
-3. Create your own projects and Paste the zigzag code
+3. Create your own project and Paste the clone code into it
 
 
 4. Run the emulator and Start the server
